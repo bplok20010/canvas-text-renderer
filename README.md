@@ -1,1 +1,1 @@
-# text-renderer
+# canvas-text-renderer
